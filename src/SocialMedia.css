@@ -1,0 +1,16 @@
+.socialMediaGroup{
+    margin:20px;
+    
+}
+
+.socialMediaGroup a{
+    margin:0 0.5rem;
+    font-size: 2rem;
+    text-decoration: none;
+    color:white
+}
+
+.socialMediaGroup a:hover{
+    color:hsl(160, 100%, 75%);
+    cursor: pointer;
+}

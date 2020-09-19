@@ -1,0 +1,39 @@
+.landingPage {
+  width:100vw;
+  height:100vh;
+  margin:0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color:white;
+  background: black;
+}
+.landingPage h1{
+  margin: 0px 40px;
+  text-transform: uppercase;
+  text-decoration: wavy;
+  padding: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: 3px;
+ 
+}
+
+.socialMedia{
+  margin:20px;
+
+}
+
+.blogLink{
+  color:white;
+  text-decoration: none;
+  margin: 0 40px;
+  font-size: 2rem;
+}
+
+.blogLink:hover{
+  color:aquamarine;
+  cursor: pointer;
+}
