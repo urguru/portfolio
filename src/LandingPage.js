@@ -52,7 +52,6 @@ class LandingPage extends Component {
             <div class="socialMedia">
               <SocialMedia />
             </div>
-            <Link to='/home' class="blogLink" > HEAD OVER TO MY BLOG</Link>
           </Fragment>
           :
           <Fragment />}
