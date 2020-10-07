@@ -1,7 +1,6 @@
 import React, { Component, Fragment } from 'react';
 import SocialMedia from './SocialMedia'
 import './LandingPage.css'
-import { Link } from 'react-router-dom';
 
 const introduction = [
   "Hey there...",
